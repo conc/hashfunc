@@ -1,0 +1,2 @@
+# hashfunc   
+some hash function
